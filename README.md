@@ -1,2 +1,29 @@
-# Javascript-Programming-
-A collection of JavaScript practice codes and mini-projects created while learning core JS concepts like DOM, events, async JS, array methods, and more. 🚀
+# JavaScript Learning 🧠💻
+
+This repository contains my JavaScript practice code, exercises, and mini-projects created while learning the language.
+
+## 📚 Topics Covered
+
+- ✅ Variables, Data Types
+- ✅ Loops & Conditionals
+- ✅ Functions & Scope
+- ✅ Arrays & Objects
+- ✅ Array Methods (map, filter, reduce)
+- ✅ DOM Manipulation
+- ✅ Events Handling
+- ✅ Asynchronous JS (Callbacks, Promises, Fetch)
+- ✅ JSON & APIs
+- ✅ Local Storage
+
+
+## 🚀 Purpose
+
+This repo helps me:
+- Track my learning journey 📈
+- Revisit and revise core concepts 🧠
+- Share progress with others 💼
+
+## 🌐 Author
+
+Soumyadip Maity
+
